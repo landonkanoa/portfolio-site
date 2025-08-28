@@ -1,5 +1,23 @@
-.parent {
+h1 {
+    text-align: center;
+    color: #A0d2EB;
+}
+p { 
+    text-align: center;
+    color: #A0d2EB
+}
+body {
+    background-color: #494D5F;
+}
+#image {
+    position:absolute;
+    left: 49%;
+    bottom: 0;
+}
+.Font {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#IG {
     display: flex;
     justify-content: center;
-    height: 250px
 }
